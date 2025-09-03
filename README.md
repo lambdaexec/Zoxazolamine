@@ -1,2 +1,1 @@
-# Zoxazolamine
-Nothing here
+A short GDI malware(no skid)
